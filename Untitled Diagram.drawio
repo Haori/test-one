@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-17T22:30:54.870Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="HdujL8l1Jr2R4epf6_Z0" version="13.6.2" type="github">
+<mxfile modified="2020-08-17T22:32:32.487Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="dAKqeeUj2r3y-fshxqtb" version="13.6.2" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="2970" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,13 +72,13 @@
         <mxCell id="an5O2O8GpZDD51hhjgrN-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fillColor=#A33336;strokeColor=#A33336;" vertex="1" parent="1">
           <mxGeometry x="810" y="314" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="an5O2O8GpZDD51hhjgrN-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fillColor=#A33336;strokeColor=#A33336;" vertex="1" parent="1">
+        <mxCell id="an5O2O8GpZDD51hhjgrN-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;strokeColor=#A33336;fillColor=#A33336;" vertex="1" parent="1">
           <mxGeometry x="810" y="414" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="an5O2O8GpZDD51hhjgrN-38" value="Preventive&lt;br&gt;Controls" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=40;fontColor=#00566B;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="an5O2O8GpZDD51hhjgrN-39" value="Detective&lt;br&gt;Controls" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=40;fontColor=#702A2A;" vertex="1" parent="1">
+        <mxCell id="an5O2O8GpZDD51hhjgrN-39" value="&lt;font color=&quot;#942e31&quot;&gt;Detective&lt;br&gt;Controls&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=40;fontColor=#702A2A;" vertex="1" parent="1">
           <mxGeometry x="730" y="620" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
